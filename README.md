@@ -21,5 +21,3 @@ A template to dive into React and Redux without moderation.
  - components : "Dumb Components" contains no logic, are fully independent of the rest of our application.
  - views : "Smart Components" contains the logic of the application.
  - This is only the front end side : you can use any kind of back end (e.g. Kotlin, Java, NodeJS, ...), an example can be found at 'https://github.com/shu-iro/ipl-end'
- 
- If you have any question don't hesitate to contact me : sacre.christopher@hotmail.com
